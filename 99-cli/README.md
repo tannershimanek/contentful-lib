@@ -1,0 +1,1 @@
+run using `node ./index.js --config ./config.json`
