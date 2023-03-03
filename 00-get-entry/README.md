@@ -1,6 +1,8 @@
 [ts setup](https://khalilstemmler.com/blogs/typescript/node-starter-project/)
 
 
+This script will allow you to enter a list of entries via cli, and return the contents of them.
+
 ----------------------------
 
 
