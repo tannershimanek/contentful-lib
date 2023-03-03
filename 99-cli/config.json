@@ -1,0 +1,10 @@
+{
+    "spaceId": "x",
+    "environmentId": "x",
+    "accessToken": "x",
+    "entryIds": [
+        "entry_1",
+        "entry_2",
+        "entry_3"
+    ]
+}
