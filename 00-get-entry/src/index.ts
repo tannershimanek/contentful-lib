@@ -37,4 +37,6 @@ const getEntry = await cma({
 const getEntryData = composeAsync(getEntry, log, console.log);
 
 ["entryid_1", "entryid_2", "entryid_3"].map((id) => getEntryData(id));
+
 // todo: get entry ids from command line
+// todo: get function opts from cli
