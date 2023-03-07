@@ -3,3 +3,10 @@ export type CFOptions = {
   environmentId: string;
   token: string;
 };
+
+export type CLIConfig = {
+  spaceId: string;
+  environmentId: string;
+  accessToken: string;
+  entryIds: string[];
+}
