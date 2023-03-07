@@ -1,3 +1,38 @@
+# Getting started
+
+1. run `npm install`
+2. run `npm run build`
+3. run `npm start`
+
+- **NOTE**: You can edit `./config.json` and add your contentful params. This will let you skip the 
+cli all together. If you want to use the config file, run `npm run start:config`
+
+<br/>
+
+### config.json
+
+The *config.json* file should always follow this format:
+
+```JSON
+{
+    "spaceId": "<space_id>",
+    "environmentId": "<environment_id>",
+    "accessToken": "<cma_access_token>",
+    "entryIds": [
+        "<entryId_1>",
+        "<entryId_2>",
+        "<entryId_3>"
+    ]
+}
+```
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Other
+
+----------------------------
 [ts setup](https://khalilstemmler.com/blogs/typescript/node-starter-project/)
 
 
