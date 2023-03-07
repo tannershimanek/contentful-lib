@@ -5,7 +5,7 @@
 3. run `npm start`
 
 - **NOTE**: You can edit `./config.json` and add your contentful params. This will let you skip the 
-cli all together. If you want to use the config file, run `npm run start:config`
+cli altogether. If you want to use the config file, run `npm run start:config`
 
 <br/>
 
