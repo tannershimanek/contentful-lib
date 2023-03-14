@@ -1,10 +1,8 @@
 {
-    "spaceId": "<space_id>",
-    "environmentId": "<environment_id>",
-    "accessToken": "<cma_access_token>",
+    "spaceId": "xx",
+    "environmentId": "xx",
+    "accessToken": "xx",
     "entryIds": [
-        "<entryId_1>",
-        "<entryId_2>",
-        "<entryId_3>"
+        "xx"
     ]
 }
